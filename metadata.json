@@ -1,0 +1,6 @@
+{
+  "name": "Production Portal - Machine Plan & Manufacturing Management",
+  "description": "Sistem Informasi Manajemen Produksi & Perencanaan Mesin Garmen: Master Order, BOM, Operation Bulletin, Setup Master, Machine Plan & QR Aset, Production Report, dan MRP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
